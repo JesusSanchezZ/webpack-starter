@@ -68,4 +68,10 @@ saludar('Jesus');
  *          git add .
  *          git commit -m "comentario"
  *          git push
+ *      git status
+ * 
+ *      github pages
+ *          activamos en el repositorio /docs
+ *          subimos cambios al repositorio
+ * 
  */
