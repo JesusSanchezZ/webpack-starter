@@ -63,4 +63,9 @@ saludar('Jesus');
  *      git remote add origin "enlaceDelRepositorio"
  *      git branch -M main                    ---> Creamos la rama
  *      git push -u origin main               ---> Subimos al repositorio
+ * 
+ *      Subir Cambios al repositorio
+ *          git add .
+ *          git commit -m "comentario"
+ *          git push
  */
