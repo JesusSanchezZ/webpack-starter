@@ -46,4 +46,21 @@ saludar('Jesus');
  *             plugin: https://babeljs.io/
  *             instalación: npm i -D babel-loader @babel/core
  *              npm i -D @babel/preset-env
+ * 
+ *  Configuración inicial de git
+ *      git config --global user.name "username"
+ *      git config --global user.email "mail"
+ *      git config --global color.ui auto     --->  Opcional
+ * 
+ *       
+ *      git init                              ---> inicializa repositorio
+ *      git add .                             ---> prparamos la carga
+ *      git commit -m "Primer commit"         ---> sube archivos
+ *      git checkout -- .                     ---> si hubo cambios en archivo origen se pueden respaldar del repositorio de git
+ *      git log
+ * 
+ *      Subir a gitHub
+ *      git remote add origin "enlaceDelRepositorio"
+ *      git branch -M main                    ---> Creamos la rama
+ *      git push -u origin main               ---> Subimos al repositorio
  */
